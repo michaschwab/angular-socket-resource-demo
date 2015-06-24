@@ -1,10 +1,10 @@
 # angular-socket-resource-demo
-This is a demo for [https://github.com/michaschwab/angular-socket-resource](angular-socket-resource).
+This is a demo for [angular-socket-resource](https://github.com/michaschwab/angular-socket-resource).
 
 Try it out to see the real time updates happening automatically by running the demo on a web server, opening the page in two browser windows,
 and editing the articles while seeing the live changes in the other browser window.
  
-This is done without deploying **any** changes to the default articles controller packaged in the [https://github.com/yeoman/yeoman](yeoman) [https://github.com/meanjs/generator-meanjs](MEAN generator).
+This is done without deploying **any** changes to the default articles controller packaged in the [yeoman](https://github.com/yeoman/yeoman) [MEAN generator](https://github.com/meanjs/generator-meanjs).
 
 ## How to install the demo
 
